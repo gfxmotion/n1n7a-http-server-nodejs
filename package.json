@@ -1,0 +1,21 @@
+{
+  "name": "isander-http-server-nodejs",
+  "version": "0.0.1",
+  "description": "A mega simple static file server.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Irina Sander",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.1.2",
+    "errorhandler": "^1.0.1",
+    "express": "^4.1.2",
+    "method-override": "^1.0.0",
+    "pm2": "^4.2.3"
+  },
+  "bin": {
+    "is-server": "./start.js"
+  }
+}
