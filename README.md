@@ -46,3 +46,6 @@ If you need a different hostname:
 Open [http://192.168.0.1:4567](http://192.168.0.1:4567)
 
 pm2 docs: [https://pm2.keymetrics.io/docs/usage/process-management/](https://pm2.keymetrics.io/docs/usage/process-management/)
+
+html5 boilerplate [https://html5boilerplate.com/]https://html5boilerplate.com/
+inspired by [https://github.com/spadin/simple-express-static-server] https://github.com/spadin/simple-express-static-server
